@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PullDocRequest xmlns:ns2="http://tempuri.org/" ver="1.0" orgId="aab.co.in.test" 
+ts="2018-01-24T12:23:27+05:30" txn= "txn" appId="NSDLPAN"
+ keyhash="acdfac9a2126c8b0e420747eb8da7e06d1e68a5ee2ff906698b0740415e6baa0">
+<DocDetails>
+<URI>uri</URI>
+</DocDetails>
+</PullDocRequest>
