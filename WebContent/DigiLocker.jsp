@@ -28,8 +28,8 @@ String content = new String();
 long timeStamp = System.currentTimeMillis() / 1000L;
 
 MessageDigest md = MessageDigest.getInstance( "SHA-256" );
-String requester_id = "NSDLPAN";
-String secret_key = "ZuLtW5B66gmZlGs8Cc5T";
+String requester_id = "****";
+String secret_key = "****";
 String text = requester_id + secret_key + timeStamp;
 
 // Change this to UTF-16 if needed
